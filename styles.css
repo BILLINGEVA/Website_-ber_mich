@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(144, 182, 233);
+    font-family: sans-serif
+}
+h1 {
+   
+    color:rgb(255, 255, 255);
+    font-weight:lighter;
+    font-style: oblique;
+    text-transform: uppercase;
+
+}
+
+h2 {
+    color:rgb(98, 11, 148);
+    font-weight: bold;
+    
+}
+
+nav ul{
+    list-style: none;
+    padding-left: 2%;
+}
