@@ -1,6 +1,7 @@
 *{
     background-color: rgb(144, 182, 233);
     font-family: sans-serif
+   
 }
 h1 {
    
@@ -20,4 +21,17 @@ h2 {
 nav ul{
     list-style: none;
     padding-left: 2%;
+}
+
+
+nav ul li{
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+nav ul li a{
+    margin-left: 1%;
+    color: rgb(71, 2, 73);
+    background-color: rgb(87, 133, 189);
 }
