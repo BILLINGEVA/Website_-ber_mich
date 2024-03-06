@@ -35,3 +35,16 @@ nav ul li a{
     color: rgb(71, 2, 73);
     background-color: rgb(87, 133, 189);
 }
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
